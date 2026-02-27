@@ -12,14 +12,14 @@
 
 Этап 1-3: Инициализация и первые коммиты
 Были выполнены следующие команды:
-```bash
+
 git init
 git add index.html
 git commit -m "feat: create index page"
 git commit -m "feat: add description"
 
 Этап 4: Работа с ветками
-bash
+
 git checkout -b develop
 git add styles.css
 git commit -m "feat: add styles"
@@ -41,12 +41,12 @@ text
 Часть 2. Работа с GitHub
 
 Этап 6: Публикация проекта
-bash
+
 git remote add origin https://github.com/Reallyofff/MyFirstProject
 git push -u origin master
 
 Этап 7: Клонирование и работа с веткой
-bash
+
 cd Desktop/FriendProject
 git clone https://github.com/Reallyofff/MyFirstProject
 cd MyFirstProject
@@ -61,34 +61,19 @@ git push -u origin feature/contact
 После проверки изменений выполнено слияние.
 Локальный репозиторий обновлён командой:
 
-bash
 git pull origin master
 
 3. Скриншоты
-
-Скриншот 1 – Конфликт в терминале
-<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot1.png" width="600">
-
-Скриншот 2 – Маркеры конфликта в файле 
-<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot2.png" width="600">
-
-Скриншот 3 – Граф коммитов 
-<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot3.png" width="600">
-
-Скриншот 4 – Создание репозитория  
-<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot4.png" width="600">
-
-Скриншот 5 – Репозиторий на GitHub  
-<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot5.png" width="600">
-
-Скриншот 6 – Создание Pull Request  
-<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot6.png" width="600">
-
-Скриншот 7 – Успешное слияние  
-<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot7.png" width="600">
+[Скриншот 1 – Конфликт в терминале](https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot1.png)
+[Скриншот 2 – Маркеры конфликта в файле](https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot2.png)
+[Скриншот 3 – Граф коммитов](https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot3.png)
+[Скриншот 4 – Создание репозитория](https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot4.png)
+[Скриншот 5 – Репозиторий на GitHub](https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot5.png)
+[Скриншот 6 – Создание Pull Request](https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot6.png)
+[Скриншот 7 – Успешное слияние](https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot7.png)
 
 4. Используемые команды
-Команда	Описание
+Команда	                        Описание
 git init	                Инициализация репозитория
 git add	                        Добавление файлов в индекс
 git commit -m "message"	        Создание коммита

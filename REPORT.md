@@ -79,25 +79,25 @@ git pull origin master
 
 3. Скриншоты
 Скриншот_1.
-Конфликт в терминале	<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot1.png" width="500">
+Конфликт в терминале<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot1.png" width="500">
 
 Скриншот_2.
-Маркеры конфликта в файле	<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot2.png" width="500">
+Маркеры конфликта в файле<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot2.png" width="500">
 
 Скриншот_3.
-Граф коммитов	<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot3.png" width="500">
+Граф коммитов<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot3.png" width="500">
 
 Скриншот_4.
-Создание репозитория	<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot4.png" width="500">
+Создание репозитория<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot4.png" width="500">
 
 Скриншот_5.
-Репозиторий на GitHub	<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot5.png" width="500">
+Репозиторий на GitHub<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot5.png" width="500">
 
 Скриншот_6.
-Создание Pull Request	<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot6.png" width="500">
+Создание Pull Request<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot6.png" width="500">
 
 Скриншот_7.
-Успешное слияние	<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot7.png" width="500">
+Успешное слияние<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot7.png" width="500">
 
 ---
 

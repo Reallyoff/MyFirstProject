@@ -66,26 +66,26 @@ git pull origin master
 
 3. Скриншоты
 
-Скриншот 1 – Конфликт в терминале
-<img src="https://github.com/Reallyoff/MyFirstProject/blob/master/screenshot1.png" width="600">
+Скриншот 1 – Конфликт в терминале  
+<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot1.png" width="600">
 
-Скриншот 2 – Маркеры конфликта в файле
-<img src="https://github.com/Reallyoff/MyFirstProject/blob/master/screenshot2.png" width="600">
+Скриншот 2 – Маркеры конфликта в файле 
+<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot2.png" width="600">
 
-Скриншот 3 – Граф коммитов
-<img src="https://github.com/Reallyoff/MyFirstProject/blob/master/screenshot3.png" width="600">
+Скриншот 3 – Граф коммитов  
+<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot3.png" width="600">
 
 Скриншот 4 – Создание репозитория
-<img src="https://github.com/Reallyoff/MyFirstProject/blob/master/screenshot4.png" width="600">
+<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot4.png" width="600">
 
-Скриншот 5 – Репозиторий на GitHub
-<img src="https://github.com/Reallyoff/MyFirstProject/blob/master/screenshot5.png" width="600">
+Скриншот 5 – Репозиторий на GitHub  
+<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot5.png" width="600">
 
-Скриншот 6 – Создание Pull Request
-<img src="https://github.com/Reallyoff/MyFirstProject/blob/master/screenshot6.pngg" width="600">
+Скриншот 6 – Создание Pull Request 
+<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot6.png" width="600">
 
-Скриншот 7 – Успешное слияние
-<img src="https://github.com/Reallyoff/MyFirstProject/blob/master/screenshot7.png" width="600">
+Скриншот 7 – Успешное слияние  
+<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot7.png" width="600">
 
 4. Используемые команды
 Команда	Описание

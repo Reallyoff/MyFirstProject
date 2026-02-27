@@ -65,26 +65,27 @@ bash
 git pull origin master
 
 3. Скриншоты
-Скриншот 1 – Конфликт в терминале
-![Конфликт](screenshot1.png)
 
- Скриншот 2 – Маркеры конфликта в файле
-![Маркеры конфликта](screenshot2.png)
+Скриншот 1 – Конфликт в терминале
+<img src="screenshot1.png" width="600">
+
+Скриншот 2 – Маркеры конфликта в файле
+<img src="screenshot2.png" width="600">
 
 Скриншот 3 – Граф коммитов
-![Граф коммитов](screenshot3.png)
+<img src="screenshot3.png" width="600">
 
 Скриншот 4 – Создание репозитория
-![Создание репозитория](screenshot4.png)
+<img src="screenshot4.png" width="600">
 
 Скриншот 5 – Репозиторий на GitHub
-![Репозиторий](screenshot5.png)
+<img src="screenshot5.png" width="600">
 
 Скриншот 6 – Создание Pull Request
-![Pull Request](screenshot6.png)
+<img src="screenshot6.png" width="600">
 
 Скриншот 7 – Успешное слияние
-![Слияние](screenshot7.png)
+<img src="screenshot7.png" width="600">
 
 4. Используемые команды
 Команда	Описание

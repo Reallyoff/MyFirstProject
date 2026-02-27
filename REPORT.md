@@ -64,13 +64,27 @@ git push -u origin feature/contact
 git pull origin master
 
 3. Скриншоты
-[Скриншот 1 – Конфликт в терминале](https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot1.png)
-[Скриншот 2 – Маркеры конфликта в файле](https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot2.png)
-[Скриншот 3 – Граф коммитов](https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot3.png)
-[Скриншот 4 – Создание репозитория](https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot4.png)
-[Скриншот 5 – Репозиторий на GitHub](https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot5.png)
-[Скриншот 6 – Создание Pull Request](https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot6.png)
-[Скриншот 7 – Успешное слияние](https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot7.png)
+
+Скриншот 1 – Конфликт в терминале  
+<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot1.png" width="600">
+
+Скриншот 2 – Маркеры конфликта в файле  
+<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot2.png" width="600">
+
+Скриншот 3 – Граф коммитов  
+<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot3.png" width="600">
+
+Скриншот 4 – Создание репозитория  
+<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot4.png" width="600">
+
+Скриншот 5 – Репозиторий на GitHub  
+<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot5.png" width="600">
+
+Скриншот 6 – Создание Pull Request  
+<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot6.png" width="600">
+
+Скриншот 7 – Успешное слияние  
+<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot7.png" width="600">
 
 4. Используемые команды
 Команда	                        Описание

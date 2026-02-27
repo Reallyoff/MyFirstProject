@@ -117,16 +117,27 @@ git pull origin master
 ---
 
 4. Используемые команды
-Команда	                       Описание
-git init	               Инициализация репозитория
-git add	                       Добавление файлов в индекс
-git commit -m "message"	       Создание коммита
-git checkout -b branch_name    Создание и переход в новую ветку
-git merge branch_name	       Слияние веток
-git remote add origin URL      Подключение удалённого репозитория
-git push -u origin branch      Отправка ветки на GitHub
-git pull origin branch	       Получение изменений с GitHub
-git log --graph --oneline      Просмотр истории коммитов
+
+Команда
+	                       Описание
+git init
+	               Инициализация репозитория
+git add
+	                       Добавление файлов в индекс
+git commit -m "message"
+	       Создание коммита
+git checkout -b branch_name
+    Создание и переход в новую ветку
+git merge branch_name
+	       Слияние веток
+git remote add origin URL
+      Подключение удалённого репозитория
+git push -u origin branch
+      Отправка ветки на GitHub
+git pull origin branch
+	       Получение изменений с GitHub
+git log --graph --oneline
+      Просмотр истории коммитов
 
 ---
 

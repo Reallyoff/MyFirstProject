@@ -118,9 +118,9 @@ git pull origin master
 
 4. Используемые команды
 
-git init                     (Инициализация репозитория)
+git init&nbsp;&nbsp;&nbsp;&nbsp;(Инициализация репозитория)
  
-git add                      (Добавление файлов в индекс)
+git add&nbsp;&nbsp;&nbsp;&nbsp;(Добавление файлов в индекс)
 
 git commit -m "message"      (Создание коммита)
 

@@ -80,13 +80,13 @@ git pull origin master
 3. Скриншоты
 
 Скриншот_1.
-
 Конфликт в терминале
+
 <img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot1.png" width="500">
 
 Скриншот_2.
-
 Маркеры конфликта в файле
+
 <img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot2.png" width="500">
 
 Скриншот_3.

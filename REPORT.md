@@ -67,25 +67,25 @@ git pull origin master
 3. Скриншоты
 
 Скриншот 1 – Конфликт в терминале  
-<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot1.png" width="600">
+<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/refs/heads/master/screenshot1.png?token=GHSAT0AAAAAADWQP6K32GU34MO6CLHA2W3G2NBTXTQ">
 
 Скриншот 2 – Маркеры конфликта в файле 
-<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot2.png" width="600">
+<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/refs/heads/master/screenshot2.png?token=GHSAT0AAAAAADWQP6K37XY7TG6WNTDJKYIU2NBTYSA">
 
 Скриншот 3 – Граф коммитов  
-<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot3.png" width="600">
+<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/refs/heads/master/screenshot3.png?token=GHSAT0AAAAAADWQP6K3PY2I6YLRTMBPRNEK2NBTZBA">
 
 Скриншот 4 – Создание репозитория
-<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot4.png" width="600">
+<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/refs/heads/master/screenshot4.png?token=GHSAT0AAAAAADWQP6K2MP3AIEDHC3TLHJB22NBTZUA">
 
 Скриншот 5 – Репозиторий на GitHub  
-<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot5.png" width="600">
+<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/refs/heads/master/screenshot5.png?token=GHSAT0AAAAAADWQP6K3JLGMUDQASTNOZCBC2NBTZ5Q">
 
 Скриншот 6 – Создание Pull Request 
-<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot6.png" width="600">
+<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/refs/heads/master/screenshot6.png?token=GHSAT0AAAAAADWQP6K2ZCIWLL4IKW2ZUHGK2NBT2FA">
 
 Скриншот 7 – Успешное слияние  
-<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/master/screenshot7.png" width="600">
+<img src="https://raw.githubusercontent.com/Reallyoff/MyFirstProject/refs/heads/master/screenshot7.png?token=GHSAT0AAAAAADWQP6K2D2ZXQXVOBXPAJXSU2NBT2NA">
 
 4. Используемые команды
 Команда	Описание
